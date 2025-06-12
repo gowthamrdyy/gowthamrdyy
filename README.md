@@ -26,6 +26,6 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br>
 <br>
-![](https://media.giphy.com/media/PQ0VI3S5vqL5pwQQJX/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazYydTlxYjJjcjhsNXM2bnUyc3FoNWI3aTlmNzhteDR4aTR3bXcwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Pye8IqIolrEiImiYpK/giphy.gif" style="width:300px; height:150px;"><img src="https://media.giphy.com/media/PQ0VI3S5vqL5pwQQJX/giphy.gif" style="width:150px; height:150px;">
 
 
