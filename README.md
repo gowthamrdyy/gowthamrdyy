@@ -1,3 +1,6 @@
+<img src="think.jpg">
+<br>
+
 # 💫 ABOUT ME:
 Hi there! 👋 I'm Gowtham, a passionate Computer Science student who loves building things with code. I enjoy learning new technologies, solving problems, and creating content online.<br><br>
 I mainly work with Java, Python, and web technologies like HTML, CSS, and React. I'm currently exploring backend development and AI.
