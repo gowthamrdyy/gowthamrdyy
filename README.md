@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my coding skills and building fun projects  <br>👯 I’m looking to collaborate on beginner-friendly open-source projects  <br>🤝 I’m looking for help with backend development and APIs  <br>🌱 I’m currently learning DSA and Full Stack Development<br>💬 Ask me about anything tech-related or content creation  <br>⚡ Fun fact: I make vlogs and tech videos on YouTube @gowthamrdyy
+# 💫 ABOUT ME:
+Hi there! 👋 I'm Gowtham, a passionate Computer Science student who loves building things with code. I enjoy learning new technologies, solving problems, and creating content online.
+I mainly work with Java, Python, and web technologies like HTML, CSS, and React. I'm currently exploring backend development and AI.
+Apart from coding, I'm also a content creator 🎥 — you can find my vlogs and tech videos on YouTube at **@gowthamrdyy**.
+I'm always open to learning, collaborating, and connecting with fellow developers!
 
 
 ## 🌐 Socials:
