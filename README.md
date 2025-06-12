@@ -16,22 +16,16 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowthamrdyy/gowthamrdyy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowthamrdyy/gowthamrdyy/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gowthamrdyy&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gowthamrdyy&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamrdyy&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gowthamrdyy&theme=rose_pine&no-frame=true&no-bg=true&margin-w=4)
-
+![](https://nirzak-streak-stats.vercel.app/?user=gowthamrdyy&theme=blue-green&hide_border=false)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-[![](https://visitcount.itsvg.in/api?id=gowthamrdyy&icon=3&color=3)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br>
+<br>
+![](https://media.giphy.com/media/PQ0VI3S5vqL5pwQQJX/giphy.gif)
 
 
