@@ -1,4 +1,4 @@
-<img src="new.jpg">
+<img src="new.png">
 <br>
 
 # 💫 ABOUT ME:
