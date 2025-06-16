@@ -1,4 +1,4 @@
-<img src="think.jpg">
+<img src="new.jpg">
 <br>
 
 # 💫 ABOUT ME:
