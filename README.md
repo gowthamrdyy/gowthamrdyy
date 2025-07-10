@@ -1,4 +1,4 @@
-<img src="think.jpg">
+<img src="pic.png">
 <br>
 
 # Hi there! 👋
