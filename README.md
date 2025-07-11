@@ -21,7 +21,7 @@ Apart from coding, I'm also a content creator 🎥 — you can find my vlogs and
 
 # 📊 GitHub Stats:
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxpMnNlem03bHZzZWlrbXVwbTBlZno0cGNodHg1cWpscG9yZGt5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35MAXwpmqaQlbS9WHd/giphy.gif" style="width:400px; height:200px;">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxpMnNlem03bHZzZWlrbXVwbTBlZno0cGNodHg1cWpscG9yZGt5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35MAXwpmqaQlbS9WHd/giphy.gif" style="width:300px; height:150px;">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=gowthamrdyy&theme=blue-green&hide_border=false)
 
