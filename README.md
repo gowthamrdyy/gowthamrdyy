@@ -14,9 +14,9 @@ Apart from coding, I'm also a content creator 🎥 — you can find my vlogs and
 
 ---
 
-### Contact
+## Contact
 
-Want to get in touch? You can find me on various platforms:
+Want to get in touch?
 
 <div align="left">
     <a href="mailto:iamgowthamsree@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
