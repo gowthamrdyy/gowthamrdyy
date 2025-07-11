@@ -2,7 +2,7 @@
 <br>
 
 # Hi there! 👋
-I am [Gowtham](gowthamrdyy.vercel.app),a passionate CSE with AIML student at [SRMIST](https://www.srmist.edu.in/) who loves building things with code. I enjoy learning new technologies, solving problems, and creating content online.<br><br>
+I am [Gowtham](https://gowthamrdyy.vercel.app/),a passionate CSE with AIML student at [SRMIST](https://www.srmist.edu.in/) who loves building things with code. I enjoy learning new technologies, solving problems, and creating content online.<br><br>
 I mainly work with Python and web technologies like HTML, CSS, and React. I'm currently exploring Web development and AI.
 Apart from coding, I'm also a content creator 🎥 — you can find my vlogs and tech videos on YouTube at [@gowthamrdyy](https://www.youtube.com/@gowthamrdyyy).<br><br>
 
