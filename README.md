@@ -7,7 +7,7 @@
 
 I am [Gowtham](https://gowthamrdyy.vercel.app/),a passionate CSE with AIML student at [SRMIST](https://www.srmist.edu.in/) who loves building things with code. I enjoy learning new technologies, solving problems, and creating content online.<br><br>
 I mainly work with Python and web technologies like HTML, CSS, and React. I'm currently exploring Web development and AI.
-Apart from coding, I'm also a content creator 🎥 — you can find my vlogs and tech videos on YouTube at [@gowthamrdyy](https://www.youtube.com/@gowthamrdyyy).<br><br>
+Apart from coding, I'm also a content creator 🎥 — you can find my vlogs and tech videos on YouTube at [@gowthamrdyy](https://www.youtube.com/@gowthamrdyyy).<br><br>![](https://komarev.com/ghpvc/?username=gowthamrdyy&abbreviated=true)
 
 ---
 
@@ -26,13 +26,12 @@ Apart from coding, I'm also a content creator 🎥 — you can find my vlogs and
 ![](https://nirzak-streak-stats.vercel.app/?user=gowthamrdyy&theme=blue-green&hide_border=false)
 
 
-
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowthamrdyy/gowthamrdyy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowthamrdyy/gowthamrdyy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gowthamrdyy/gowthamrdyy/output/github-snake.svg" />
 </picture>
 
 ---
@@ -52,5 +51,5 @@ Want to get in touch?
     <a href="https://twitter.com/gowthamrdyy"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Contact-1D9BF0?style=for-the-badge"></a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=gowthamrdyy&abbreviated=true)
+
 
