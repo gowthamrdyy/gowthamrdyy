@@ -52,3 +52,5 @@ Want to get in touch?
     <a href="https://twitter.com/gowthamrdyy"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Contact-1D9BF0?style=for-the-badge"></a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=gowthamrdyy&abbreviated=true)
+
